@@ -1,0 +1,7 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/edu/nju/sa2022/micropos/product/api/ApiUtil.java
+src/main/java/edu/nju/sa2022/micropos/product/api/ProductsApi.java
+src/main/java/edu/nju/sa2022/micropos/product/dto/ErrorDto.java
+src/main/java/edu/nju/sa2022/micropos/product/dto/ProductDto.java
